@@ -36,7 +36,11 @@ plt.plot(myline, mymodel(myline))
 plt.show()
 
 
-
+# 1.
+# Criminal Law - Criminal Lawyer Tel Aviv
+# 5.0(1) · Attorney
+# 10+ years in business · Tel Aviv-Yafo, Israel
+# Open ⋅ Closes 12 AM · +972 3-673-8097
 
 
 # 2.
